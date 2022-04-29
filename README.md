@@ -7,7 +7,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phanindrachowdary18" alt="phanindrachowdary18" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/Phanindra" target="blank"><img src="https://img.shields.io/twitter/follow/@phanind41959147?logo=twitter&style=for-the-badge" alt="@phanind41959147" /></a> </p>
 - 👨‍💻 You can also check out my portfolio at [https://phanindra.chowdary.github.io/]
 
 - 🌱 I’m currently learning **Machine Learning, AI,**
