@@ -1,4 +1,7 @@
 # phanindra.chowdary
+[![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQGDLURwP-MxHQ/profile-displaybackgroundimage-shrink_350_1400/0/1624432677770?e=1649894400&v=beta&t=9ftvnINumN5h6vFaR-FyTOl-2Ov9sR28qcB_c-SqH5k)](https://phanindra.chowdary.github.io)
+<h1 align="center">Hi 👋, I'm Khushboo Goel</h1>
+<h3 align="center">A Girl trying to Figure-Out Stuff!!</h3>
 <h1 align="center">Hi 👋, I'm Phanindra Kumar</h1>
 <h3 align="center">A boy trying to figure out stuff</h3>
 
@@ -6,7 +9,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phanindrachowdary18" alt="phanindrachowdary18" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@phanind41959147" target="blank"><img src="https://img.shields.io/twitter/follow/@phanind41959147?logo=twitter&style=for-the-badge" alt="@phanind41959147" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Phanindra" target="blank"><img src="https://img.shields.io/twitter/follow/@phanind41959147?logo=twitter&style=for-the-badge" alt="@phanind41959147" /></a> </p>
+- 👨‍💻 You can also check out my portfolio at [https://phanindra.chowdary.github.io/](https://khushboogoel01.github.io/)
 
 - 🌱 I’m currently learning **Machine Learning, AI,**
 
